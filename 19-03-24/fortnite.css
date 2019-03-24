@@ -1,0 +1,8 @@
+body {
+background-image: URL('uvod.jpeg'); /* obrázek na pozadí */
+background-size: 100%;
+background-color: black; /* případná barva pozadí černá */
+background-repeat: no-repeat;
+background-position: top left;
+color: white; } /* bílý text */
+
